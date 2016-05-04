@@ -1,0 +1,12 @@
+.msg {
+    margin-top: -1px;
+    color: hsl(0, 82%, 52%) !important;
+    font-family: arial;
+    font-size: 28px !important;
+}
+.msgbottom {
+margin-bottom: 20px;
+	color: hsl(0, 82%, 52%) !important;
+	font-family: arial;
+	font-size: 22px !important;
+}
